@@ -1,0 +1,53 @@
+h1{
+    color:rgb(212, 152, 152);
+    text-align: center;
+}
+p:hover{
+    background-color: blue;
+    padding:20px;
+    width:200px;
+  
+}
+p{
+    color:rgb(73, 112, 219)
+}
+body:hover{
+   background-color: rgb(112, 112, 134);
+}
+*{
+    color:plum
+}
+h2:hover{
+ font-size: 50px;
+}
+img{
+    height: 400px;
+}
+img:hover{
+    width: 500px;
+}
+p.r{
+    color:brown
+}
+p.r:hover{
+    background-color: chartreuse;
+    font-size: 70px;
+}
+header nav ol li a{
+    text-decoration:none;
+    background-color: blue;
+    color:crimson;
+    padding: 12px;
+    display: block;
+    width:100px ;
+}
+div a{
+    text-decoration: none;
+
+}
+div a:hover{
+    color:chartreuse
+}
+div p.t{
+   color:darkblue
+}
